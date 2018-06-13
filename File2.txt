@@ -1,2 +1,2 @@
 This is the second file
-also adding another line
+just removed and added this line
