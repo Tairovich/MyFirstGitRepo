@@ -1,2 +1,1 @@
-This is the second file
-also adding another line
+This is another file 
